@@ -1,11 +1,15 @@
 # Activity-2 - Manuel Jerard F Evangelista (BS-IT)
 
+
 ## Password Security
 
 <p align="justify">
   The <strong>risk</strong> of accounts being compromised has been on the rise now more than ever. If you think you're one step ahead—more vigilant and none the wiser because you're caught up in the loop
   —<strong>heh</strong>... just remember, that bad actors, those operating in the shadows and in the dark corners of the web, have become more aware as well.
 </p>
+
+
+
 
 ## Please Run Necessary Security Check...
 
@@ -55,6 +59,8 @@
 > PASSWORD STATUS: SECURE
 user@security:~$ _
 ```
+
+
 
 ## So What About The Infographic? =>
 <p align="justify">
