@@ -68,6 +68,12 @@ user@security:~$ _
   The second page illustrates the percentage of students enrolled in four select technology-related college courses: <strong>BS Information Technology (BSIT)</strong>, <strong>Information Systems (IS)</strong>, <strong>Computer Science (CS)</strong>, and <strong>Data Science (DS)</strong>. As such, the chart provides a quick overview of the estimated student distribution among the four chosen courses.
 </p>
 
+<br>
+
 <p align="center">
-  <img src="Page1.png" alt="Password Security Infographic">
+  <img src="Page1.png" alt="Password Security">
+</p>
+
+<p align="center">
+  <img src="Page2.png" alt="Demographics">
 </p>
