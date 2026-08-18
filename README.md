@@ -20,7 +20,7 @@
 ██████╔╝███████║███████╗███████╗██║ █╗ ██║██║   ██║██████╔╝██║  ██║
 ██╔═══╝ ██╔══██║╚════██║╚════██║██║███╗██║██║   ██║██╔══██╗██║  ██║
 ██║     ██║  ██║███████║███████║╚███╔███╔╝╚██████╔╝██║  ██║██████╔╝
-╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝
+╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ TM ;)
 
 ==================================================
                  TRUST NO PASSWORD
@@ -57,6 +57,13 @@ ACCESS: ████████████████░░  82%
 > PASSWORD STATUS: SECURE
 user@security:~$ _
 ```
+
+<p align="center">
+  <img src="images/Page1.png" alt="Password Security Infog>
+</p>
+<p align="center">
+  <img src="images/Page2.png" alt="Password Security Infog>
+</p>
 
 ## So What About The Infographic?
 <p align="justify">
