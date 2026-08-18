@@ -57,14 +57,6 @@ ACCESS: ████████████████░░  82%
 > PASSWORD STATUS: SECURE
 user@security:~$ _
 ```
-
-<p align="center">
-  <img src="images/Page1.png" alt="Password Security Infog>
-</p>
-<p align="center">
-  <img src="images/Page2.png" alt="Password Security Infog>
-</p>
-
 ## So What About The Infographic?
 <p align="justify">
   It is absolutely, and I can't stress this enough, <strong>ABSOLUTELY CRUCIAL</strong> that people, especially the youth who are more active on social media now than ever, understand the must-dos of stronger password security and the precaution needed to make it stay that way.
@@ -74,4 +66,8 @@ user@security:~$ _
 
 <p align="justify">
   The second page illustrates the percentage of students enrolled in four select technology-related college courses: <strong>BS Information Technology (BSIT)</strong>, <strong>Information Systems (IS)</strong>, <strong>Computer Science (CS)</strong>, and <strong>Data Science (DS)</strong>. As such, the chart provides a quick overview of the estimated student distribution among the four chosen courses.
+</p>
+
+<p align="center">
+  <img src="images/Page1.png" alt="Password Security Infographic">
 </p>
