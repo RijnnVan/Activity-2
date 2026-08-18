@@ -4,7 +4,7 @@
 
 <p align="justify">
   The **risk** of accounts being compromised has been on the rise now more than ever. If you think you're one step ahead—more vigilant and none the wiser because you're caught up in the loop
-  —**heh**, just remember, that bad actors, those operating in the shadows and in the dark corners of the web, have become more aware as well.
+  —<strong>heh</strong>, just remember, that bad actors, those operating in the shadows and in the dark corners of the web, have become more aware as well.
 </p>
 
 ## Please Run Necessary Security Check...
@@ -58,7 +58,7 @@ user@security:~$ _
 
 ## So What About The Infographic =>
 <p align="justify">
-  It is absolutely, and I can't stress this enough, **ABSOLUTELY CRUCIAL** that people, especially the youth who are more active on social media now than ever, understand the must-dos of stronger password security and the precaution needed to make it stay that way.
+  It is absolutely, and I can't stress this enough, <strong>ABSOLUTELY CRUCIAL</strong> that people, especially the youth who are more active on social media now than ever, understand the must-dos of stronger password security and the precaution needed to make it stay that way.
 
-  This is all about raising that awareness about the importance of password security, risks associated with the common password, and some practices that can help any user to **better protect** their accounts and most importantly, **safeguard** personal information.
+  This is all about raising that awareness about the importance of password security, risks associated with the common password, and some practices that can help any user to **better protect** their accounts and most importantly, <strong>safeguard</strong> personal information.
 </p>
