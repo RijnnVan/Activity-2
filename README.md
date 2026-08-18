@@ -1,7 +1,7 @@
 # Activity-2 - Manuel Jerard F Evangelista
 
 ## Password Security
-  The risk of accounts being compromised has been on the rise now more than ever. If you think you're one step ahead—more vigilant and wiser just because you're in the loop—remember that bad actors, those operating in the shadows and in the dark corners of the web, have become more aware as well.
+  The **risk** of accounts being compromised has been on the rise now more than ever. If you think you're one step ahead—more vigilant and none the wiser because you're caught up in the loop—**heh**, just remember, that bad actors, those operating in the shadows and in the dark corners of the web, have become more aware as well.
 
 ## Security Check
 
@@ -52,6 +52,8 @@
 user@security:~$ _
 ```
 
-## About This Work
+## About The Infographic
 
-This infographic discusses...
+  It is absolutely, and I can't stress this enough, **absolutely crucial** that people, especially the youth who are more active on social media now than ever, understand the must-dos of stronger password security and the precaution needed to make it stay that way.
+
+  This is all about raising that awareness about the importance of password security, risks associated with the common password, and some practices that can help any user to **better protect** their accounts and most importantly, **safeguard** personal information.
