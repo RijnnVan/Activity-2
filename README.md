@@ -69,5 +69,5 @@ user@security:~$ _
 </p>
 
 <p align="center">
-  <img src="images/Page1.png" alt="Password Security Infographic">
+  <img src="Page1.png" alt="Password Security Infographic">
 </p>
