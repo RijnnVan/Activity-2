@@ -1,6 +1,5 @@
 # Activity-2 - Manuel Jerard F Evangelista (BS-IT)
 
-
 ## Password Security
 
 <p align="justify">
@@ -8,7 +7,7 @@
   —<strong>heh</strong>... just remember, that bad actors, those operating in the shadows and in the dark corners of the web, have become more aware as well.
 </p>
 
-## Please Run Necessary Security Check...
+## Please Run the Necessary Security Check...
 
 ```text
 +--------------------------------------------------+
@@ -57,6 +56,7 @@ ACCESS: ████████████████░░  82%
 > PASSWORD STATUS: SECURE
 user@security:~$ _
 ```
+
 ## So What About The Infographic?
 <p align="justify">
   It is absolutely, and I can't stress this enough, <strong>ABSOLUTELY CRUCIAL</strong> that people, especially the youth who are more active on social media now than ever, understand the must-dos of stronger password security and the precaution needed to make it stay that way.
@@ -70,10 +70,10 @@ user@security:~$ _
 
 <br>
 
+<!-- pages -->
 <p align="center">
   <img src="Page1.png" alt="Password Security">
 </p>
-
 <p align="center">
   <img src="Page2.png" alt="Demographics">
 </p>
